@@ -15,9 +15,9 @@ const opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
 global.set = {
     opts: opts,
     prefix: new RegExp('^[' + (opts['prefix'] || '‎xzXZ/i!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']'),
-    name: "MyWA BOT",
+    name: "Delta BOT",
     version: "1.0.1",
-    dev: "Amirul Dev",
+    dev: "Delta",
     desc: "Made by Dikode Team",
     browser: "firefox",
     wm: "MyWA BOT By Amirul Dev",
