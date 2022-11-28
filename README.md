@@ -50,3 +50,4 @@ node . session_name --opts
 #### Developer
 - Amirul Dev =>  [![amiruldev](https://img.shields.io/badge/WA-ME.svg)](https://wa.me/687852104)
 - Nadia Cans => [![nadia](https://img.shields.io/badge/WA-ME.svg)](https://wa.me/6285772679192)
+- DeltaDev.  => [![Delta](https://img.shields.io/badge/WA-ME.svg)](https://wa.me/13177997217)
